@@ -190,7 +190,7 @@ body {
   input {
     width: 270px;
     height: 40px;
-    background: #ffffff 0% 0% no-repeat padding-box;
+    background:#d6efc7 0% 0% no-repeat padding-box;
     box-shadow: 3px 3px 3px #00000029;
     border: 1px solid #184d47;
     border-radius: 5px;
@@ -276,7 +276,7 @@ body {
     .card {
       min-height: 40px;
       width: 100%;
-      border: 1px solid #ccc9c9;
+      border: 1px solid #d6efc7;
     }
     .card-item {
       display: none;
